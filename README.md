@@ -6,6 +6,7 @@
 
 ## 📜 Tabla de Contenidos Técnica
 
+
 ### 🔵 **Nivel Básico** ([Ver Todos](./basico/README.md))
 1. **[Sintaxis Básica](./basico/01-sintaxis/README.md)**  
    - Variables: `let`, `const`, `var` (hoisting)  
