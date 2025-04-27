@@ -26,7 +26,6 @@
 let nombre = "Ana"; // mutable
 const EDAD = 28;    // inmutable
 
-
 // Tipos primitivos
 typeof "Hola";    // "string"
 typeof 42;        // "number"
