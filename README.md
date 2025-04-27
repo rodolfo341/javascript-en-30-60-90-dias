@@ -6,7 +6,7 @@
 
 ## 📜 Tabla de Contenidos Técnica
 
-### 🔵 **Nivel Básico** ([Ver Todos](./basico/README.md))
+### 🔵 **Nivel Básico**
 1. **[Sintaxis Básica](./basico/README.md)**  
    - Variables: `let`, `const`, `var` (hoisting)  
    - Tipos: primitivos vs objetos  
@@ -39,7 +39,7 @@
 
 ---
 
-### 🟠 **Nivel Intermedio** ([Ver Todos](/intermedio/README.md))
+### 🟠 **Nivel Intermedio**
 1. **[Asincronía](/intermedio/01-asincronia/README.md)**  
    - Callback Hell → Promesas → Async/Await  
    - `Promise.allSettled()`  
@@ -66,7 +66,7 @@
 
 ---
 
-### 🔴 **Nivel Avanzado** ([Ver Todos](/avanzado/README.md))
+### 🔴 **Nivel Avanzado**
 1. **[Patrones de Diseño](/avanzado/01-patrones/README.md)**  
    - Singleton, Factory, Observer  
 
